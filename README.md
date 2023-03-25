@@ -1,3 +1,4 @@
+BASIC CAMMANDS
 git init
 Syntax: git init [repository name]
 
